@@ -15,7 +15,7 @@ type message struct{
 	type    		msgType
 	sequence		int
 	preSequence		int
-	value				string
+	value			string
 
 }
 
