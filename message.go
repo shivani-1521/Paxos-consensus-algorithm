@@ -12,7 +12,7 @@ const(
 type message struct{
 	from			int
 	to				int
-	type    		msgType
+	typ             msgType
 	sequence		int
 	preSequence		int
 	value			string
